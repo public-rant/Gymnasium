@@ -71,3 +71,9 @@ make dirhtml
 ```
 
 Now, navigate to `_build/dirhtml` and open `index.html` in your browser.
+
+## Testing Locally
+
+```
+docker run -v $(pwd) gymnasium-all pytest
+```

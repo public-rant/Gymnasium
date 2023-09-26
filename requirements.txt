@@ -1,0 +1,6 @@
+gymnasium[mujoco]
+mujoco-py
+gymnasium[other]
+moviepy
+pygame
+gymnasium[box2d]
